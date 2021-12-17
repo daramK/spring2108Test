@@ -12,7 +12,7 @@
 <body>
 <tiles:insertAttribute name="header"/>
 <tiles:insertAttribute name="nav"/>
-<div style="height:500px" class="container">
+<div class="container">
 	<tiles:insertAttribute name="content"/>
 </div>
 <tiles:insertAttribute name="footer"/>
